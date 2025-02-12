@@ -54,3 +54,23 @@ Under [DATABASE], set TYPE to postgres, mongo, or none
 5.Run main script
 python main.py
 
+
+---------------------------------------------------------------------------
+Example Email---
+
+
+Helllo ,
+
+Attached is your invoice (Ref #2025-001) for the recent services provided.
+
+Total: $1200.00
+
+Due Date: March 15, 2025
+
+Please remit payment by the due date to avoid any late fees.
+
+Sincerely,
+
+XYZ Consulting
+
+accounts@xyzconsulting.com
